@@ -1,0 +1,11 @@
+{
+  "name": "pbird-contract-abi",
+  "version": "1.0.1",
+  "description": "ABI JSON Repo for Pepperbird Finance Contracts",
+  "author": "kareem@pepperbird.finance",
+  "license": "MIT",
+  "homepage": "https://github.com/pepperbird/pbird-contract-abi",
+  "bugs": {
+    "url": "https://github.com/pepperbird/pbird-contract-abi/issues"
+  }
+}
